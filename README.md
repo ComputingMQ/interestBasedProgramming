@@ -1,6 +1,4 @@
----
-title: Interest-based question banks for first-year programming students
----
+# Interest-based question banks for first-year programming students
 
 The motivation for programming amongst first-year IT students varies
 significantly, with some students very keen to pick up new skills, while
@@ -92,11 +90,11 @@ The fifth domain can be _mixed bag_.
 
 The question bank can be developed simultaneously in several environments:
 
-1.  Visual Studio Code: For portability, reusability, and ease of
+1.  CodeRunner: Current programming environment in Moodle.
+2.  Visual Studio Code: For portability, reusability, and ease of
     dissemination.
-2.  codingbat.com: For wider adoption and equity.
-3.  CodeRunner: Current programming environment in Moodle.
-4.  Ed Steam: Partner LMS being explored as an option due to its rich capabilities.
+3.  Codingbat.com: For wider adoption and equity.
+4.  Ed Stem: Partner LMS being explored as an option due to its rich capabilities.
 
 Our aim is to develop approximately multiple questions each for functions with:
 
