@@ -81,12 +81,12 @@ This question will be rephrased (as some examples), as,
 
 The domains in which we expect to write the questions are:
 
-1.  Generic
-2.  Entertainment (Music, Movies and other pop culture)
-3.  Sports
-4.  Gamers
-5.  Science
-6.  Business and finance (for example, stocks)
+1.  FIRST - Generic (Michael)
+2.  Entertainment (Music, Movies, and other pop culture) (Emily)
+3.  Sports (Mitchell, Emily)
+4.  Gamers (Sinan)
+5.  Science (Mitchell, Sinan)
+6.  Business and finance (for example, stocks) (Mitchell)
 
 The sixth domain can be _mixed bag_.
 
@@ -123,7 +123,7 @@ Possibly extra topics if our work is finished ahead of schedule:
 
 6 domains
 
-X 12 primary topics across the two languages
+X 6 primary topics (since stage 1 is Python, and then Java)
 
 X 10 questions (on an average) each
 
@@ -131,10 +131,10 @@ X 4 platforms (CodeRunner, Codingbat, Visual Studio Code, Ed)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
-2880 question instances
+1440 question instances
 
 Assuming each question instance, on an average, takes 10 minutes to design and write,
-this means approximately 480 hours of work. It is important to note that the first variation will take longer, and the subsequent ones will be much shorter, especially with CodeRunner "duplicate question" facility, and similar procedure with other platforms.
+this means approximately 240 hours of work. It is important to note that the first variation will take longer, and the subsequent ones will be much shorter, especially with CodeRunner "duplicate question" facility, and similar procedure with other platforms.
 
 Also, we'll finish working with CodeRunner and Visual Studio Code, then move to Codingbat, and finally to Ed.
 
