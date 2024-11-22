@@ -81,12 +81,14 @@ This question will be rephrased (as some examples), as,
 
 The domains in which we expect to write the questions are:
 
-1.  Music
-2.  Movies and other pop culture
+1.  Generic
+2.  Entertainment (Music, Movies and other pop culture)
 3.  Sports
-4.  Business and finance (for example, stocks)
+4.  Gamers
+5.  Science
+6.  Business and finance (for example, stocks)
 
-The fifth domain can be _mixed bag_.
+The sixth domain can be _mixed bag_.
 
 The question bank can be developed simultaneously in several environments:
 
@@ -119,7 +121,7 @@ Possibly extra topics if our work is finished ahead of schedule:
 
 # Budget breakdown
 
-4 domains
+6 domains
 
 X 12 primary topics across the two languages
 
@@ -129,10 +131,10 @@ X 4 platforms (CodeRunner, Codingbat, Visual Studio Code, Ed)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
-1920 question instances
+2880 question instances
 
 Assuming each question instance, on an average, takes 10 minutes to design and write,
-this means approximately 288 hours of work. It is important to note that the first variation will take longer, and the subsequent ones will be much shorter, especially with CodeRunner "duplicate question" facility, and similar procedure with other platforms.
+this means approximately 480 hours of work. It is important to note that the first variation will take longer, and the subsequent ones will be much shorter, especially with CodeRunner "duplicate question" facility, and similar procedure with other platforms.
 
 Also, we'll finish working with CodeRunner and Visual Studio Code, then move to Codingbat, and finally to Ed.
 
